@@ -14,7 +14,7 @@ import { PlaceComponent } from './place/place.component';
     AppComponent,
     HomeComponent,
     NavbarComponent,
-    MapComponent
+    MapComponent,
     PlaceComponent
   ],
   imports: [
